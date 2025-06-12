@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "Como você reage ao ver uma praia muito suja ao chegar para aproveitar o dia?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
+                texto: "Junto com amigos, começo a recolher o que dá para limpar antes de montar meu espaço.",
+                afirmacao: "<b>Proativo(a) e Solidário(a)</b>. Você age antes de reclamar. Sua personalidade é marcada por iniciativa, empatia e senso de comunidade. Você acredita que exemplo vale mais do que crítica."
             },
             {
-                texto: "Falta de Incentivos e Legislação",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "Tiro fotos, posto nas redes sociais denunciando e marco órgãos responsáveis.",
+                afirmacao: " <b>Ativista Consciente</b>Você usa as ferramentas que tem para gerar impacto. Sua personalidade é estratégica, determinada e voltada para transformação social."
             }
         ]
     },
