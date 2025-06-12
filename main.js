@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "O que você faz para ajudar a reduzir a poluição das praias, mesmo quando não está nelas?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                texto: "Evito consumir plásticos descartáveis no dia a dia, como copos, canudos e sacolas.",
+                afirmacao: "<b>Consciente e Planejador(a)</b> Você é alguém que pensa a longo prazo e entende que pequenas ações cotidianas têm impacto direto no meio ambiente. Sua personalidade mostra disciplina, responsabilidade e visão sistêmica."
             },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
+                texto: "Compartilho conteúdos sobre poluição e preservação marinha nas redes sociais para conscientizar mais pessoas.",
+                afirmacao: "<b>Comunicador(a) Engajado(a)</b>Você acredita no poder da informação e da mobilização coletiva. Sua personalidade é expressiva, socialmente ativa e inspiradora, buscando influenciar positivamente quem está ao seu redor."
             }
         ]
     },
