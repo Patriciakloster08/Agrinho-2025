@@ -32,44 +32,18 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "Qual atitude você acha mais importante ensinar às crianças sobre o cuidado com as praias?",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
-                afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
+                texto: "Nunca deixar lixo para trás, mesmo que não veja lixeira por perto.",
+                afirmacao: "<b>Educador(a de Valores)</b>Você acredita que a mudança começa na formação de hábitos. Sua personalidade é ética, orientada por princípios e dedicada à formação de gerações mais conscientes."
             },
             {
-                texto: "desigualdades na distribuição de recursos",
-                afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
+                texto: "Respeitar a natureza como se fosse parte da própria casa.",
+                afirmacao: "<b>Sensível e Conectado(a)</b>Você vê a natureza como uma extensão do ser humano. Sua personalidade é emocionalmente inteligente, sensível ao meio e guiada por conexões profundas com o planeta."
             }
         ]
     },
-    {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada? ",
-        alternativas: [
-            {
-                texto: "Negligência médica",
-                afirmacao: "<b>Foco</b> Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda são utilizadas diariamente por profissionais da saúde."
-            },
-            {
-                texto: "Desinformação da população.",
-                afirmacao: "<b>Curiosidade</b> Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado certa  importância. "
-            }
-        ]
-    },
-    {
-        enunciado: "Como evitar que ocorra a extinção de animais nativos?",
-        alternativas: [
-            {
-                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade ajudaria a melhorar esse cenário?",
-                afirmacao: "Sim, pois preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução "
-            },
-            {
-                texto: "Evitar intervenções de espécies não nativas neste ambiente pode ser uma alternativa?",
-                afirmacao: "Sim, animais de um determinado local não estão preparados para lidar com predadores de outras áreas, levando a um extermínio da espécie local"
-            }
-        ]
-    }
 ];
 
 let atual = 0;
